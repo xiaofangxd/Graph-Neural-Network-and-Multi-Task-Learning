@@ -24,6 +24,9 @@
 | 12. Multi-Task Learning for Knowledge Graph Completion with Pre-trained Language Models | ICCL  | 2020 | _Kim st al._  | [[paper](https://aclanthology.org/2020.coling-main.153.pdf)] [[code](https://github.com/bosung/MTL-KGC)]  | 
 | 13. Graph Star Net for Generalized Multi-Task Learning | arxiv  | 2019 | _Lu st al._  | [[paper](https://arxiv.org/abs/1906.12330)] [[code](https://github.com/graph-star-team/graph_star)]  | 
 | 14. Cross-Network Learning with Partially Aligned Graph Convolutional Networks | KDD  | 2021 | _Jiang st al._  | [[paper](https://arxiv.org/pdf/2106.01583.pdf)]  | 
+| 15. Multi-Task Network Representation Learning | Frontiers in Neuroscience  | 2020 | _Xie st al._  | [[paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.00001/full)]  | 
+| 16. Multi-Task Learning Based Network Embedding | Frontiers in Neuroscience  | 2020 | _Wang st al._  | [[paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.01387/full)]  | 
+
 
 
 # Transfer Learning
