@@ -1,8 +1,8 @@
 # A Collection of Main Papers on Graph Neural Network and Multi-Task/Transfer Learning
 
-- [Graph Neural Network](#Graph Neural Network)
-  - [Multi-Task Learning](#Multi-Task Learning)
-  - [Transfer Learning](#Transfer Learning)
+- [Graph Neural Network](#Graph-Neural-Network)
+  - [Multi-Task Learning](#Multi-Task-Learning)
+  - [Transfer Learning](#Transfer-Learning)
 
 ----------
 
