@@ -23,7 +23,7 @@
 | 11. Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation | AAAI  | 2021 | _Huang st al._  | [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16534)] [[code](https://github.com/sessionRec/MTD)] |  
 | 12. Multi-Task Learning for Knowledge Graph Completion with Pre-trained Language Models | ICCL  | 2020 | _Kim st al._  | [[paper](https://aclanthology.org/2020.coling-main.153.pdf)] [[code](https://github.com/bosung/MTL-KGC)]  | 
 | 13. Graph Star Net for Generalized Multi-Task Learning | arxiv  | 2019 | _Lu st al._  | [[paper](https://arxiv.org/abs/1906.12330)] [[code](https://github.com/graph-star-team/graph_star)]  | 
-| 14. Cross-Network Learning with Partially Aligned Graph Convolutional Networks | arxiv  | 2021 | _Jiang st al._  | [[paper](https://arxiv.org/pdf/2106.01583.pdf)]  | 
+| 14. Cross-Network Learning with Partially Aligned Graph Convolutional Networks | KDD  | 2021 | _Jiang st al._  | [[paper](https://arxiv.org/pdf/2106.01583.pdf)]  | 
 
 
 # Transfer Learning
