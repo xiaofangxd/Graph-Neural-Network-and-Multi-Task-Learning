@@ -1,9 +1,9 @@
-# A Collection of Main Papers on auto Graph Neural Network and Multi-Task/Transfer Learning
+# A Collection of Main Papers on Auto Graph Neural Network and Multi-Task/Transfer Learning
 
 - [Graph Neural Network](#Graph-Neural-Network)
   - [Multi-Task Learning](#Multi-Task-Learning)
   - [Transfer Learning](#Transfer-Learning)
-  - [Auto Graph Learning](#Auto Graph Learning)
+  - [Auto Graph Learning](#Auto-Graph-Learning)
 
 ----------
 
@@ -45,9 +45,7 @@
 
 # Auto Graph Learning
 
-| Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
-| ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
-| 1. Transfer Learning for Deep Learning on Graph-Structured Data | AAAI  | 2017 | _Lee et al._ | [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10904)]  |         |
+See https://github.com/THUMNLab/awesome-auto-graph-learning.
 
 **Disclaimer**
 
