@@ -1,8 +1,9 @@
-# A Collection of Main Papers on Graph Neural Network and Multi-Task/Transfer Learning
+# A Collection of Main Papers on auto Graph Neural Network and Multi-Task/Transfer Learning
 
 - [Graph Neural Network](#Graph-Neural-Network)
   - [Multi-Task Learning](#Multi-Task-Learning)
   - [Transfer Learning](#Transfer-Learning)
+  - [Auto Graph Learning](#Auto Graph Learning)
 
 ----------
 
@@ -42,6 +43,11 @@
 | 7. Transfer Learning with Graph Neural Networks for Short-Term Highway Traffic Forecasting | ICPR | 2021 | _Mallick et al._  | [[paper](https://ieeexplore.ieee.org/document/9413270)]  [[code](https://github.com/tanwimallick/TL-DCRNN)]                |         |
 | 8. Adaptive Transfer Learning on Graph Neural Networks | KDD | 2021 | _Han et al._  | [[paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467450)]  [[code](https://github.com/Sean-Huang65/AUX-TS)]                |         |
 
+# Auto Graph Learning
+
+| Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
+| ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
+| 1. Transfer Learning for Deep Learning on Graph-Structured Data | AAAI  | 2017 | _Lee et al._ | [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10904)]  |         |
 
 **Disclaimer**
 
